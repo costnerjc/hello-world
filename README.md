@@ -1,2 +1,3 @@
 # hello-world
-Repository for the hello world lab
+
+Hi, I'm Chase. I like coffee, pasta, and road trips.
